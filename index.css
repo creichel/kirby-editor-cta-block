@@ -1,0 +1,29 @@
+.k-editor-cta-block {
+    margin: 1rem 0;
+    line-height: 1.5em;
+  }
+
+  .k-editor-cta-block-wrapper {
+    background: #000;
+    border-radius: 7px;
+    display: inline;
+    padding: .7rem;
+    color: white;
+    text-align: center;
+  }
+
+  .k-editor-cta-block-wrapper input {
+    font: inherit;
+    min-width: 300px;
+    display: inline;
+    border: 0;
+    font-size: larger;
+    background: none;
+    color: white;
+    text-align: center;
+    padding: .5rem;
+  }
+  .k-editor-cta-block-wrapper input:focus {
+    outline: none;
+  }
+  

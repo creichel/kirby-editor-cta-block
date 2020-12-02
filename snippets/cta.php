@@ -1,0 +1,1 @@
+<a class="cta" data-action="button" data-title="<?= $content ?>" href="<?= $attrs->url() ?>" <?= $attrs->newwindow()->value() ? 'target="_blank"' : '' ?>><?= $content ?></a>
